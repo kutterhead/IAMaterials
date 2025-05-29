@@ -1,0 +1,11 @@
+{
+    "asset": "21598e76eb3e72a48a31808c9e308b2d",
+    "fileName": "0197070e-0543-78f0-9a32-da22161c25bb.wav",
+    "prompt": "an eagle scream",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "customSeed": -1,
+    "duration": 3.759999990463257,
+    "autoTrim": true,
+    "hasReference": false
+}

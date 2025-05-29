@@ -1,0 +1,9 @@
+{
+    "asset": "aefda717a82058b44b14d19f97e0826b",
+    "fileName": "01971b78-37c2-74aa-a851-249d5420378b_Preview.png",
+    "prompt": "grass",
+    "negativePrompt": "drawing",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "customSeed": 1588826057,
+    "refinementMode": "Generation"
+}

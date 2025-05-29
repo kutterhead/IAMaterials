@@ -1,0 +1,9 @@
+{
+    "asset": "15da56c027f385041a8d91b40addfd70",
+    "fileName": "01971b7b-527c-7733-ae10-7a296f98a1ea_Preview.png",
+    "prompt": "brick wall",
+    "negativePrompt": "brick wall",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "customSeed": 1435472041,
+    "refinementMode": "Generation"
+}
